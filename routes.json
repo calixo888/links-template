@@ -1,23 +1,37 @@
 [
-  {
-    "name": "g",
-    "title": "Github",
-    "description": "All of my open-source and personal work",
+   {
+    "name": "linkedin",
+    "title": "LinkedIn",
+    "description": "Definitely check this out, it's win for us both",
     "public": true,
-    "url": "https://github.com/rishiosaur"
+    "url": "https://linkedin.com/in/calix-huang"
   },
   {
-    "name": "t",
-    "title": "Twitter",
-    "description": "Thoughts, analogies, and just all-around me being me.",
-    "public": true,
-    "url": "https://twitter.com/rishiosaur"
-  },
-  {
-    "name": "i",
+    "name": "instagram",
     "title": "Instagram",
-    "description": "Posts, features, and pictures!",
+    "description": "Fun stuff, nothing boring here :D",
     "public": true,
-    "url": "https://instagram.com/rishi.cx"
+    "url": "https://instagram.com/calixo888"
+  },
+  {
+    "name": "twitter",
+    "title": "Twitter",
+    "description": "Don't really use it, but follow me anyways lol",
+    "public": true,
+    "url": "https://twitter.com/calixo888"
+  },
+  {
+    "name": "github",
+    "title": "Github",
+    "description": "All of my personal work and projects",
+    "public": true,
+    "url": "https://github.com/calixo888"
+  },
+  {
+    "name": "penguin",
+    "title": "Penguin",
+    "description": "The mighty penguin",
+    "public": true,
+    "url": "https://penguin.calix.dev"
   }
 ]
